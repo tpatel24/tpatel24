@@ -25,4 +25,4 @@ Over the past year, I've worked on multiple projects, from hackathon-winning mob
 - 🎧 Currently learning **Flutter** to build cross-platform apps.  
 - 🏏 Member of the **UIC Cricket Club**, playing every Tuesday and Thursday night.  
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/tanmay824) or check out my [projects](https://github.com/tpatel24)!  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tanmay824/) or check out my [projects](https://github.com/tpatel24)!  
