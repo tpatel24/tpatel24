@@ -1,5 +1,5 @@
 # Welcome to my page! 🚀  
-###Mobile & Web Development  
+Mobile & Web Development  
 
 Hi there! 👋✨ My name is **Tanmay Patel**  
 I love designing, developing, and building impactful technology! I'm currently pursuing a Bachelor's in Computer Science at the University of Illinois Chicago and have a strong passion for mobile app development, full-stack engineering, and UI/UX design.
